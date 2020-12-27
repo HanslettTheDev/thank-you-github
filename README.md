@@ -2450,3 +2450,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nguyen Duy Khang ([@khang-nd](https://github.com/khang-nd)), Software Developer, Vietnam
 - Abu Bakar Siddique ([@siddique000](https://github.com/siddique000/)),CSE Undergraduate | Web Developer, Sylhet, Bangladesh
 - Rami Mohammed ([@RamiMohammedSeid](https://github.com/RamiMohammedSeid)), 16y old Full-Stack Developer | Adiss Ababa, Ethiopia
+- Hanslett Junior ([@HanslettTheDev](https://github.com/HanslettTheDev)), Software Developer | Douala, Cameroon
